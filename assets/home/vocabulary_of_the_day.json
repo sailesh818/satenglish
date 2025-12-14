@@ -1,0 +1,78 @@
+{
+  "type": "vocabulary_of_the_day",
+  "title": "Vocabulary of the Day",
+  "words": [
+    {
+      "word": "Meticulous",
+      "part_of_speech": "Adjective",
+      "meaning": "Showing great attention to detail; very careful and precise.",
+      "example_sentence": "She kept meticulous notes to prepare for the SAT exam.",
+      "synonyms": ["Careful", "Precise", "Thorough"],
+      "antonyms": ["Careless", "Sloppy", "Negligent"],
+      "sat_tip": "Often used to describe careful planning, research, or analysis."
+    },
+    {
+      "word": "Eloquent",
+      "part_of_speech": "Adjective",
+      "meaning": "Fluent, persuasive, and well-spoken.",
+      "example_sentence": "The speaker delivered an eloquent argument.",
+      "synonyms": ["Articulate", "Expressive", "Persuasive"],
+      "antonyms": ["Inarticulate", "Confusing", "Awkward"],
+      "sat_tip": "Appears in passages describing speeches, writing, or arguments."
+    },
+    {
+      "word": "Pragmatic",
+      "part_of_speech": "Adjective",
+      "meaning": "Practical and focused on real-world results.",
+      "example_sentence": "She took a pragmatic approach to solving the problem.",
+      "synonyms": ["Practical", "Realistic", "Sensible"],
+      "antonyms": ["Idealistic", "Impractical", "Theoretical"],
+      "sat_tip": "Often contrasts with idealistic or emotional thinking."
+    },
+    {
+      "word": "Ambiguous",
+      "part_of_speech": "Adjective",
+      "meaning": "Open to more than one interpretation; unclear.",
+      "example_sentence": "The author’s ending was intentionally ambiguous.",
+      "synonyms": ["Unclear", "Vague", "Uncertain"],
+      "antonyms": ["Clear", "Definite", "Explicit"],
+      "sat_tip": "Common in reading questions asking about unclear meanings."
+    },
+    {
+      "word": "Subtle",
+      "part_of_speech": "Adjective",
+      "meaning": "Delicate or not obvious at first glance.",
+      "example_sentence": "The passage makes a subtle argument about social change.",
+      "synonyms": ["Delicate", "Indirect", "Understated"],
+      "antonyms": ["Obvious", "Blatant", "Direct"],
+      "sat_tip": "Used to describe tone, shifts in argument, or hidden meaning."
+    },
+    {
+      "word": "Convey",
+      "part_of_speech": "Verb",
+      "meaning": "To communicate or express an idea or feeling.",
+      "example_sentence": "The author conveys frustration through strong language.",
+      "synonyms": ["Communicate", "Express", "Transmit"],
+      "antonyms": ["Conceal", "Hide", "Suppress"],
+      "sat_tip": "Very common in questions about author’s purpose or message."
+    },
+    {
+      "word": "Inevitable",
+      "part_of_speech": "Adjective",
+      "meaning": "Certain to happen; unavoidable.",
+      "example_sentence": "Change is inevitable in modern society.",
+      "synonyms": ["Unavoidable", "Certain", "Inescapable"],
+      "antonyms": ["Avoidable", "Unlikely", "Preventable"],
+      "sat_tip": "Often appears in science, history, or cause-and-effect passages."
+    },
+    {
+      "word": "Assert",
+      "part_of_speech": "Verb",
+      "meaning": "To state confidently or forcefully.",
+      "example_sentence": "The author asserts that education is the key to progress.",
+      "synonyms": ["Claim", "Declare", "Maintain"],
+      "antonyms": ["Deny", "Question", "Retract"],
+      "sat_tip": "Used when describing an author’s main argument or claim."
+    }
+  ]
+}

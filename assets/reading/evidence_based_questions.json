@@ -1,0 +1,57 @@
+{
+  "title": "Evidence-Based Questions",
+  "level": "Intermediate",
+  "description": "Learn to answer questions using direct evidence from passages. This lesson provides step-by-step guidance, examples, and practice questions with detailed explanations to ensure understanding.",
+  "content": [
+    {
+      "heading": "Introduction",
+      "text": "Evidence-based questions require you to support your answers with information explicitly stated in the passage. Always refer back to the text to justify your answer rather than relying on assumptions."
+    },
+    {
+      "heading": "Key Concepts",
+      "text": "- Read the passage carefully.\n- Identify statements or details that support the answer.\n- Avoid answers that are opinions or unsupported by the text.\n- Use evidence to explain why your choice is correct."
+    },
+    {
+      "heading": "Step-by-Step Approach",
+      "text": "1. Read the passage fully.\n2. Highlight key statements that relate to the question.\n3. Identify which sentences provide direct evidence.\n4. Eliminate options not supported by the passage.\n5. Select the answer backed by text evidence."
+    },
+    {
+      "heading": "Example Passage",
+      "text": "Passage: 'The sunflowers turned their faces toward the sun each morning.'\n\nQuestion: Which sentence supports the idea that sunflowers follow the sun?\nAnswer: 'They turn their faces toward the sun.' This sentence provides direct evidence from the passage."
+    },
+    {
+      "heading": "Practice Questions",
+      "text": "Try these questions to test your skills in using evidence from passages."
+    },
+    {
+      "heading": "Question 1",
+      "text": "'The sunflowers turned their faces toward the sun each morning.'\n\nQuestion: Which sentence supports the idea that sunflowers follow the sun?",
+      "options": [
+        "A) Sunflowers are yellow.",
+        "B) Sunflowers bloom in summer.",
+        "C) They turn their faces toward the sun.",
+        "D) Sunflowers grow tall."
+      ],
+      "answer": "C",
+      "hint": "Look for direct support in the passage.",
+      "explanation": "Sentence C directly mentions sunflowers turning toward the sun, providing evidence for the idea."
+    },
+    {
+      "heading": "Question 2",
+      "text": "'The library introduced new digital resources for students to access e-books and research databases.'\n\nQuestion: Which sentence supports the idea that students now have more online resources?",
+      "options": [
+        "A) The library closed early on Fridays.",
+        "B) Students can access e-books and research databases.",
+        "C) The library has more chairs.",
+        "D) Students need to return books on time."
+      ],
+      "answer": "B",
+      "hint": "Focus on what the passage explicitly states about online resources.",
+      "explanation": "Sentence B clearly describes the new digital resources available, directly supporting the idea."
+    },
+    {
+      "heading": "Summary",
+      "text": "Evidence-based questions test your ability to find direct support in a passage. Always refer to specific sentences or details from the text to justify your answer. Practice regularly to quickly identify supporting evidence."
+    }
+  ]
+}

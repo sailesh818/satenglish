@@ -1,0 +1,66 @@
+{
+  "title": "Vocabulary in Context",
+  "level": "Intermediate",
+  "description": "Learn how to determine the meaning of words based on context within sentences and passages. This lesson provides step-by-step guidance, examples, and practice questions with explanations to ensure understanding.",
+  "content": [
+    {
+      "heading": "Introduction",
+      "text": "Context clues in sentences help you infer the meaning of unfamiliar words. By examining how a word is used within a sentence or passage, you can often deduce its meaning without using a dictionary."
+    },
+    {
+      "heading": "Key Concepts",
+      "text": "- Look for definitions or explanations within the sentence.\n- Identify synonyms or antonyms nearby.\n- Consider examples or descriptions surrounding the word.\n- Think about how the word affects the overall meaning of the sentence."
+    },
+    {
+      "heading": "Step-by-Step Approach",
+      "text": "1. Read the sentence carefully.\n2. Identify the unfamiliar word.\n3. Look at words and phrases around it for clues.\n4. Try to infer the meaning.\n5. Confirm your choice by checking if it fits the sentence logically."
+    },
+    {
+      "heading": "Example Question",
+      "text": "Sentence: 'The arid climate made farming difficult.'\n\nQuestion: What does 'arid' mean?",
+      "options": [
+        "A) Dry",
+        "B) Wet",
+        "C) Fertile",
+        "D) Cold"
+      ],
+      "answer": "A",
+      "hint": "Consider how the climate affects farming.",
+      "explanation": "Arid means dry. This explains why farming is difficult, as dry conditions reduce water availability for crops."
+    },
+    {
+      "heading": "Practice Questions",
+      "text": "Try these questions to test your understanding of vocabulary in context."
+    },
+    {
+      "heading": "Question 1",
+      "text": "Sentence: 'Her jubilant smile showed how happy she was after receiving the award.'\n\nQuestion: What does 'jubilant' mean?",
+      "options": [
+        "A) Sad",
+        "B) Angry",
+        "C) Happy",
+        "D) Confused"
+      ],
+      "answer": "C",
+      "hint": "Look at what her smile indicates.",
+      "explanation": "The word 'jubilant' describes extreme happiness or joy, as indicated by her smiling after the award."
+    },
+    {
+      "heading": "Question 2",
+      "text": "Sentence: 'He approached the task with meticulous attention to detail.'\n\nQuestion: What does 'meticulous' mean?",
+      "options": [
+        "A) Careless",
+        "B) Thorough",
+        "C) Rushed",
+        "D) Lazy"
+      ],
+      "answer": "B",
+      "hint": "Consider how he completed the task.",
+      "explanation": "'Meticulous' means showing great attention to detail, doing something very carefully and thoroughly."
+    },
+    {
+      "heading": "Summary",
+      "text": "Understanding words in context is essential for reading comprehension. Look for clues in surrounding words and sentences, and practice inferring meanings to improve your vocabulary skills."
+    }
+  ]
+}

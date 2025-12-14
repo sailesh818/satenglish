@@ -1,0 +1,57 @@
+{
+  "title": "Inference Questions",
+  "level": "Intermediate",
+  "description": "Learn how to make logical inferences from reading passages. This lesson provides step-by-step guidance, examples, and practice questions with detailed explanations to ensure clear understanding.",
+  "content": [
+    {
+      "heading": "Introduction",
+      "text": "Inference questions require you to understand what is implied in a passage rather than what is directly stated. You need to read between the lines and use context clues to draw logical conclusions."
+    },
+    {
+      "heading": "Key Concepts",
+      "text": "- Read the passage carefully to understand the context.\n- Identify clues and details that hint at implied meanings.\n- Avoid assumptions that are not supported by the text.\n- Focus on what the author is suggesting indirectly."
+    },
+    {
+      "heading": "Step-by-Step Approach",
+      "text": "1. Read the passage fully and carefully.\n2. Highlight any words or phrases that suggest meaning.\n3. Ask: 'What is implied but not directly stated?'\n4. Compare your inference with the evidence in the text.\n5. Eliminate options that are unsupported by the passage."
+    },
+    {
+      "heading": "Example Passage",
+      "text": "Passage: 'John packed his backpack with a notebook, lunch, and water bottle and headed out the door.'\n\nQuestion: What can you infer about John's plans?\nAnswer: John is likely going to school or on a day trip. The items he carries suggest preparation for a long period away from home."
+    },
+    {
+      "heading": "Practice Questions",
+      "text": "Try these questions to test your inference skills."
+    },
+    {
+      "heading": "Question 1",
+      "text": "Passage: 'She put on her coat and grabbed an umbrella before leaving.'\n\nQuestion: What can you infer about the weather?",
+      "options": [
+        "A) It's sunny",
+        "B) It's raining",
+        "C) It's very cold",
+        "D) It's windy"
+      ],
+      "answer": "B",
+      "hint": "Look at the items she takes with her.",
+      "explanation": "She takes an umbrella, indicating it is likely raining."
+    },
+    {
+      "heading": "Question 2",
+      "text": "Passage: 'Mark glanced at his watch and hurried down the street, dodging people along the way.'\n\nQuestion: What can you infer about Mark's situation?",
+      "options": [
+        "A) He is going for a walk",
+        "B) He is late for something",
+        "C) He is waiting for a friend",
+        "D) He is exercising"
+      ],
+      "answer": "B",
+      "hint": "Consider why someone would hurry and dodge people.",
+      "explanation": "Mark is hurrying and checking the time, suggesting he is late for an appointment or event."
+    },
+    {
+      "heading": "Summary",
+      "text": "Inference questions require careful reading and logical reasoning. Always base your answers on evidence from the text. Practice helps in recognizing implied meanings quickly and accurately."
+    }
+  ]
+}

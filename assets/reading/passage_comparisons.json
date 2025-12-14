@@ -1,0 +1,66 @@
+{
+  "title": "Passage Comparisons",
+  "level": "Intermediate",
+  "description": "Learn to compare and contrast passages to find differences and similarities. This lesson provides step-by-step guidance, examples, and practice questions with explanations to ensure understanding.",
+  "content": [
+    {
+      "heading": "Introduction",
+      "text": "Passage comparison questions ask you to identify similarities and differences between two or more passages. These can involve tone, perspective, purpose, or supporting details."
+    },
+    {
+      "heading": "Key Concepts",
+      "text": "- Focus on the main points of each passage.\n- Identify supporting evidence for each idea.\n- Look for similarities in themes or arguments.\n- Note differences in tone, viewpoint, or details.\n- Avoid adding assumptions not stated in the passages."
+    },
+    {
+      "heading": "Step-by-Step Approach",
+      "text": "1. Read both passages carefully.\n2. Summarize the main idea of each.\n3. Highlight similarities and differences.\n4. Pay attention to descriptive words and tone.\n5. Choose the answer that accurately reflects the comparison."
+    },
+    {
+      "heading": "Example Question",
+      "text": "Passage 1: 'Dogs are loyal and friendly.'\nPassage 2: 'Cats are independent but affectionate.'\n\nQuestion: How do the authors’ views differ?",
+      "options": [
+        "A) Dogs are unfriendly, cats are loyal",
+        "B) Dogs are loyal, cats are independent",
+        "C) Both are independent",
+        "D) Both are friendly"
+      ],
+      "answer": "B",
+      "hint": "Compare the descriptive words used for each animal.",
+      "explanation": "Dogs are described as loyal, showing commitment to humans, while cats are described as independent, highlighting self-reliance. This illustrates differing traits."
+    },
+    {
+      "heading": "Practice Questions",
+      "text": "Try these questions to test your understanding of passage comparisons."
+    },
+    {
+      "heading": "Question 1",
+      "text": "Passage 1: 'The city library provides many programs for children.'\nPassage 2: 'The community center offers sports activities for children.'\n\nQuestion: How do the authors’ approaches to children's activities differ?",
+      "options": [
+        "A) Both focus on sports",
+        "B) Library offers educational programs, center offers physical activities",
+        "C) Library is for adults only, center is for children",
+        "D) Both offer identical programs"
+      ],
+      "answer": "B",
+      "hint": "Look at the type of activities mentioned in each passage.",
+      "explanation": "The library focuses on educational programs, while the community center emphasizes sports, showing different approaches to engaging children."
+    },
+    {
+      "heading": "Question 2",
+      "text": "Passage 1: 'Renewable energy reduces pollution.'\nPassage 2: 'Fossil fuels provide quick energy but harm the environment.'\n\nQuestion: What contrast do these passages show?",
+      "options": [
+        "A) Renewable energy is harmful, fossil fuels are safe",
+        "B) Both types of energy are harmful",
+        "C) Renewable energy is eco-friendly, fossil fuels cause environmental damage",
+        "D) Both types are equally efficient"
+      ],
+      "answer": "C",
+      "hint": "Focus on environmental impact mentioned in each passage.",
+      "explanation": "Renewable energy is presented positively as reducing pollution, while fossil fuels are described negatively as harming the environment, showing a clear contrast."
+    },
+    {
+      "heading": "Summary",
+      "text": "Comparing passages requires careful reading and analysis of details, tone, and perspective. Practice by identifying similarities and differences clearly and choosing answers based on evidence from the text."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "title": "Sentence Structure",
+  "level": "Intermediate",
+  "description": "Learn to identify sentence fragments, run-ons, and proper sentence structure. This lesson provides examples, explanations, practice questions, and tips for writing clear sentences.",
+  "content": [
+    {
+      "heading": "Introduction",
+      "text": "Sentence structure refers to how words, phrases, and clauses are organized to form a complete sentence. Correct structure ensures clarity and readability. Common issues include fragments, run-on sentences, and comma splices."
+    },
+    {
+      "heading": "Key Concepts",
+      "text": "- Complete Sentence: Contains a subject and a predicate and expresses a complete thought.\n- Fragment: Incomplete sentence missing a subject, verb, or complete thought.\n- Run-on Sentence: Two or more independent clauses joined without proper punctuation.\n- Comma Splice: Using only a comma to join two independent clauses."
+    },
+    {
+      "heading": "Step-by-Step Approach",
+      "text": "1. Identify the subject and predicate.\n2. Check if it expresses a complete thought.\n3. Look for multiple independent clauses.\n4. Correctly use commas, semicolons, or conjunctions to join clauses.\n5. Rewrite incomplete sentences as needed."
+    },
+    {
+      "heading": "Example 1",
+      "text": "'Although he was tired he finished his homework.'\nCorrect: 'Although he was tired, he finished his homework.'\nExplanation: A comma is needed after the introductory clause."
+    },
+    {
+      "heading": "Example 2",
+      "text": "'She loves reading she goes to the library every week.'\nCorrect: 'She loves reading; she goes to the library every week.'\nExplanation: Use a semicolon to separate two independent clauses."
+    },
+    {
+      "heading": "Practice Questions",
+      "text": "Identify the issue in the following sentences and correct them."
+    },
+    {
+      "heading": "Question 1",
+      "text": "'Although he was tired he finished his homework.'\nWhat is the issue?",
+      "options": [
+        "A) Run-on sentence",
+        "B) Fragment",
+        "C) Correct sentence",
+        "D) Subject-verb disagreement"
+      ],
+      "answer": "C",
+      "hint": "Check punctuation after the introductory clause.",
+      "explanation": "Adding a comma after 'tired' improves readability: 'Although he was tired, he finished his homework.'"
+    },
+    {
+      "heading": "Question 2",
+      "text": "'Walking to school. She saw a bird.'\nIdentify the problem.",
+      "options": [
+        "A) Fragment",
+        "B) Run-on sentence",
+        "C) Correct sentence",
+        "D) Subject-verb disagreement"
+      ],
+      "answer": "A",
+      "hint": "Does the first part express a complete thought?",
+      "explanation": "'Walking to school.' is a fragment because it lacks a subject performing the action. Correct: 'While walking to school, she saw a bird.'"
+    },
+    {
+      "heading": "Question 3",
+      "text": "'He likes ice cream he eats it every day.'\nIdentify the problem.",
+      "options": [
+        "A) Run-on sentence",
+        "B) Fragment",
+        "C) Correct sentence",
+        "D) Punctuation error only"
+      ],
+      "answer": "A",
+      "hint": "Two independent clauses need separation.",
+      "explanation": "Correct: 'He likes ice cream; he eats it every day.' or 'He likes ice cream, and he eats it every day.'"
+    },
+    {
+      "heading": "Summary",
+      "text": "Proper sentence structure ensures clarity. Always check for fragments, run-on sentences, and correct punctuation to create complete, readable sentences."
+    }
+  ]
+}

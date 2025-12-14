@@ -1,0 +1,66 @@
+{
+  "title": "Commonly Confused Words",
+  "level": "Intermediate",
+  "description": "Learn to distinguish commonly confused SAT words to avoid mistakes. This lesson provides clear examples, practice questions, hints, and explanations for better understanding.",
+  "content": [
+    {
+      "heading": "Introduction",
+      "text": "Some words in English look or sound similar but have different meanings or uses. Confusing them can change the meaning of a sentence, so it’s important to understand each word clearly."
+    },
+    {
+      "heading": "Key Concepts",
+      "text": "- 'Affect' is usually a verb meaning 'to influence'.\n- 'Effect' is usually a noun meaning 'the result of something'.\n- Always check if the word represents an action (verb) or a thing/result (noun).\n- Other commonly confused words include: 'accept' vs 'except', 'compliment' vs 'complement', 'principle' vs 'principal'."
+    },
+    {
+      "heading": "Step-by-Step Approach",
+      "text": "1. Identify the part of speech (verb, noun, adjective).\n2. Understand the meaning in context.\n3. Substitute each option in the sentence to see which makes sense.\n4. Choose the word that correctly fits both meaning and grammar."
+    },
+    {
+      "heading": "Example Question",
+      "text": "Sentence: 'The new law will ___ the economy.'\nQuestion: Choose the correct word: Affect or Effect?",
+      "options": [
+        "A) Affect",
+        "B) Effect",
+        "C) Both",
+        "D) Neither"
+      ],
+      "answer": "A",
+      "hint": "'Affect' is usually a verb indicating influence.",
+      "explanation": "'Affect' is correct because it is the action of influencing the economy. 'Effect' would be a noun, as in 'The new law will have a positive effect on the economy.'"
+    },
+    {
+      "heading": "Practice Questions",
+      "text": "Try these questions to reinforce your understanding of commonly confused words."
+    },
+    {
+      "heading": "Question 1",
+      "text": "Sentence: 'She could not ___ the invitation because she was busy.'\nQuestion: Choose the correct word: Accept or Except?",
+      "options": [
+        "A) Accept",
+        "B) Except",
+        "C) Both",
+        "D) Neither"
+      ],
+      "answer": "A",
+      "hint": "'Accept' means to agree to receive.",
+      "explanation": "'Accept' is correct because she agrees to receive or take the invitation. 'Except' means 'excluding' and does not fit the context."
+    },
+    {
+      "heading": "Question 2",
+      "text": "Sentence: 'The dessert will ___ the flavors of the main course.'\nQuestion: Choose the correct word: Compliment or Complement?",
+      "options": [
+        "A) Compliment",
+        "B) Complement",
+        "C) Both",
+        "D) Neither"
+      ],
+      "answer": "B",
+      "hint": "'Complement' means to complete or go well with.",
+      "explanation": "'Complement' is correct because the dessert enhances or completes the flavors. 'Compliment' would mean to praise, which does not fit here."
+    },
+    {
+      "heading": "Summary",
+      "text": "Always check the meaning and part of speech of commonly confused words. Use context clues to select the correct word. Practicing with sentences helps avoid common SAT mistakes."
+    }
+  ]
+}

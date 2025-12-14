@@ -1,0 +1,61 @@
+{
+  "title": "Pronouns & Modifiers",
+  "level": "Intermediate",
+  "description": "Learn how to use pronouns correctly and place modifiers properly to make sentences clear and precise. This lesson includes clear explanations, examples, practice questions, hints, and detailed explanations.",
+  "content": [
+    {
+      "heading": "Introduction",
+      "text": "Pronouns are words that replace nouns (he, she, it, they). Modifiers are words or phrases that describe, limit, or clarify another word. Misplaced pronouns or modifiers can make sentences confusing or ambiguous."
+    },
+    {
+      "heading": "Key Concepts",
+      "text": "- Ensure pronouns clearly refer to the intended noun.\n- Place modifiers next to the word they describe.\n- Avoid dangling modifiers that have no clear subject.\n- Check for clarity and correctness."
+    },
+    {
+      "heading": "Step-by-Step Approach",
+      "text": "1. Identify pronouns and the nouns they refer to.\n2. Check if modifiers are next to the correct word.\n3. Rewrite sentences to fix ambiguous or misplaced modifiers.\n4. Read the sentence for clarity."
+    },
+    {
+      "heading": "Example 1",
+      "text": "'Walking to school, the rain started pouring.'\nCorrect: 'Walking to school, I got caught in the rain.'"
+    },
+    {
+      "heading": "Example 2",
+      "text": "'She gave a gift to the friend wrapped in colorful paper.'\nCorrect: 'She gave a gift wrapped in colorful paper to her friend.'"
+    },
+    {
+      "heading": "Practice Questions",
+      "text": "Fix the following sentences to correctly use pronouns and modifiers."
+    },
+    {
+      "heading": "Question 1",
+      "text": "'Walking to school, the rain started pouring.'\nWhat is wrong?",
+      "options": [
+        "A) Modifier is misplaced",
+        "B) Pronoun is incorrect",
+        "C) Sentence is correct",
+        "D) Verb tense is wrong"
+      ],
+      "answer": "A",
+      "hint": "Who is walking to school?",
+      "explanation": "The modifier incorrectly appears to describe 'rain' instead of the subject. Rewriting improves clarity."
+    },
+    {
+      "heading": "Question 2",
+      "text": "'After finishing the homework, the TV was turned on.'\nWhat is wrong?",
+      "options": [
+        "A) Modifier is misplaced",
+        "B) Pronoun is incorrect",
+        "C) Sentence is correct",
+        "D) Verb tense is wrong"
+      ],
+      "answer": "A",
+      "hint": "Who finished the homework?",
+      "explanation": "The modifier 'After finishing the homework' incorrectly modifies 'TV'. Correct: 'After finishing the homework, she turned on the TV.'"
+    },
+    {
+      "heading": "Summary",
+      "text": "Always ensure pronouns clearly refer to their nouns and modifiers are placed next to the words they describe. This ensures sentences are clear, unambiguous, and grammatically correct."
+    }
+  ]
+}

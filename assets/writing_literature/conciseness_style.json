@@ -1,0 +1,61 @@
+{
+  "title": "Conciseness & Style",
+  "level": "Intermediate",
+  "description": "Learn to write clear, concise sentences by removing unnecessary words. This lesson includes examples, practice questions, hints, and explanations to help improve writing style.",
+  "content": [
+    {
+      "heading": "Introduction",
+      "text": "Concise writing communicates ideas clearly without extra words. Removing unnecessary phrases makes sentences stronger and easier to read."
+    },
+    {
+      "heading": "Key Concepts",
+      "text": "- Eliminate wordy phrases.\n- Avoid redundancy.\n- Replace long expressions with simpler words.\n- Ensure clarity and flow."
+    },
+    {
+      "heading": "Step-by-Step Approach",
+      "text": "1. Read the sentence carefully.\n2. Identify unnecessary or repetitive words.\n3. Replace long phrases with shorter equivalents.\n4. Ensure the sentence still conveys the original meaning."
+    },
+    {
+      "heading": "Example 1",
+      "text": "'Due to the fact that it was raining, the game was canceled.'\nConcise: 'Because it was raining, the game was canceled.'"
+    },
+    {
+      "heading": "Example 2",
+      "text": "'At this point in time, we are unable to proceed.'\nConcise: 'Currently, we are unable to proceed.'"
+    },
+    {
+      "heading": "Practice Questions",
+      "text": "Rewrite the following sentences concisely."
+    },
+    {
+      "heading": "Question 1",
+      "text": "'Due to the fact that it was raining, the game was canceled.'\nRewrite concisely.",
+      "options": [
+        "A) Because it was raining, the game was canceled.",
+        "B) It rained so game canceled.",
+        "C) Due to rain game canceled.",
+        "D) The game was canceled raining."
+      ],
+      "answer": "A",
+      "hint": "Replace wordy phrases like 'Due to the fact that' with simpler equivalents.",
+      "explanation": "'Due to the fact that' can be simplified to 'Because' for clarity."
+    },
+    {
+      "heading": "Question 2",
+      "text": "'At this point in time, we need to start the project.'\nRewrite concisely.",
+      "options": [
+        "A) At this point in time, start project.",
+        "B) We need to start the project now.",
+        "C) Now, project must be started.",
+        "D) We start project at this time."
+      ],
+      "answer": "B",
+      "hint": "Simplify 'At this point in time' to 'now'.",
+      "explanation": "'At this point in time' is wordy. Using 'now' makes the sentence concise and clear."
+    },
+    {
+      "heading": "Summary",
+      "text": "Concise writing improves clarity and readability. Always look for wordy phrases, redundancies, and replace them with shorter, precise alternatives."
+    }
+  ]
+}

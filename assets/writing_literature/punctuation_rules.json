@@ -1,0 +1,61 @@
+{
+  "title": "Punctuation Rules",
+  "level": "Intermediate",
+  "description": "Learn how to use punctuation marks correctly to make sentences clear and grammatically correct. This lesson includes explanations, examples, practice questions, hints, and detailed answers.",
+  "content": [
+    {
+      "heading": "Introduction",
+      "text": "Punctuation marks help clarify meaning in writing. They indicate pauses, separate ideas, and organize information. Common punctuation marks include commas, periods, semicolons, colons, apostrophes, and quotation marks."
+    },
+    {
+      "heading": "Key Concepts",
+      "text": "- Commas: Separate items in a list, after introductory phrases, and in compound sentences.\n- Periods: End declarative sentences.\n- Semicolons: Link closely related independent clauses.\n- Colons: Introduce lists or explanations.\n- Apostrophes: Show possession or form contractions.\n- Quotation Marks: Enclose direct speech or quotes."
+    },
+    {
+      "heading": "Step-by-Step Approach",
+      "text": "1. Identify the type of punctuation needed.\n2. Apply the punctuation according to the rules.\n3. Read the sentence to ensure clarity and correctness.\n4. Revise if the punctuation changes the meaning."
+    },
+    {
+      "heading": "Example 1",
+      "text": "'I bought apples oranges and bananas.'\nCorrect: 'I bought apples, oranges, and bananas.'"
+    },
+    {
+      "heading": "Example 2",
+      "text": "'She said I am coming soon.'\nCorrect: 'She said, \"I am coming soon.\"'"
+    },
+    {
+      "heading": "Practice Questions",
+      "text": "Correct the punctuation in the following sentences."
+    },
+    {
+      "heading": "Question 1",
+      "text": "'I bought apples oranges and bananas.'\nCorrect the punctuation.",
+      "options": [
+        "A) I bought apples, oranges, and bananas.",
+        "B) I bought apples oranges, and bananas.",
+        "C) I bought, apples oranges and bananas.",
+        "D) I bought apples oranges and, bananas."
+      ],
+      "answer": "A",
+      "hint": "Use commas in a list.",
+      "explanation": "A series of three or more items requires commas to separate them."
+    },
+    {
+      "heading": "Question 2",
+      "text": "'Its raining outside lets take an umbrella.'\nCorrect the punctuation.",
+      "options": [
+        "A) It's raining outside; let's take an umbrella.",
+        "B) Its raining outside lets take an umbrella.",
+        "C) It's raining outside, lets take an umbrella.",
+        "D) Its raining outside; lets take an umbrella."
+      ],
+      "answer": "A",
+      "hint": "Use an apostrophe for contractions and a semicolon to link clauses.",
+      "explanation": "'It's' is the contraction of 'It is', and a semicolon links two closely related clauses."
+    },
+    {
+      "heading": "Summary",
+      "text": "Correct punctuation ensures clarity and avoids ambiguity. Always check commas in lists, apostrophes in contractions, and appropriate use of periods, semicolons, and quotation marks."
+    }
+  ]
+}

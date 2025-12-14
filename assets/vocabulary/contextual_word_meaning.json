@@ -1,0 +1,66 @@
+{
+  "title": "Contextual Word Meaning",
+  "level": "Intermediate",
+  "description": "Learn to determine the meaning of words based on the context in sentences or passages. This lesson provides examples, practice questions, hints, and explanations to make understanding easier.",
+  "content": [
+    {
+      "heading": "Introduction",
+      "text": "Context clues in sentences help you infer the meaning of unfamiliar words. Look at surrounding words, phrases, and overall sentence meaning to understand a word."
+    },
+    {
+      "heading": "Key Concepts",
+      "text": "- Words can have different meanings depending on context.\n- Look for descriptive words or phrases nearby that indicate meaning.\n- Consider tone, situation, and sentence structure to infer meaning."
+    },
+    {
+      "heading": "Step-by-Step Approach",
+      "text": "1. Read the sentence carefully.\n2. Identify any clue words or phrases.\n3. Determine the role of the unknown word in the sentence.\n4. Choose the meaning that best fits the context.\n5. Check if the sentence still makes sense with your choice."
+    },
+    {
+      "heading": "Example Question",
+      "text": "Sentence: 'The judge admonished the lawyer for being late.'\nQuestion: What does 'admonished' mean?",
+      "options": [
+        "A) Praised",
+        "B) Scolded",
+        "C) Ignored",
+        "D) Assisted"
+      ],
+      "answer": "B",
+      "hint": "Consider the context: the lawyer did something wrong.",
+      "explanation": "'Admonished' means to warn or reprimand someone. The judge scolded the lawyer for being late."
+    },
+    {
+      "heading": "Practice Questions",
+      "text": "Try these questions to practice determining word meaning from context."
+    },
+    {
+      "heading": "Question 1",
+      "text": "Sentence: 'The student’s meticulous notes helped him score high on the exam.'\nQuestion: What does 'meticulous' mean?",
+      "options": [
+        "A) Careless",
+        "B) Detailed and careful",
+        "C) Quick",
+        "D) Confusing"
+      ],
+      "answer": "B",
+      "hint": "Consider how the notes helped him score well.",
+      "explanation": "'Meticulous' means paying close attention to detail and being careful."
+    },
+    {
+      "heading": "Question 2",
+      "text": "Sentence: 'Her enthusiasm was contagious, and everyone joined the project with excitement.'\nQuestion: What does 'contagious' mean in this context?",
+      "options": [
+        "A) Spreading from person to person",
+        "B) Harmful",
+        "C) Infectious disease",
+        "D) Uninteresting"
+      ],
+      "answer": "A",
+      "hint": "Think about how her enthusiasm affected others.",
+      "explanation": "'Contagious' here means that her enthusiasm spread to others, influencing them positively."
+    },
+    {
+      "heading": "Summary",
+      "text": "Use context clues, sentence meaning, and nearby descriptive words to determine the meaning of unfamiliar words. Practicing with examples strengthens comprehension and vocabulary skills."
+    }
+  ]
+}

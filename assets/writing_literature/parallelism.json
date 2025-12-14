@@ -1,0 +1,61 @@
+{
+  "title": "Parallelism",
+  "level": "Intermediate",
+  "description": "Learn how to ensure grammatical structures are balanced in lists, comparisons, and sentences. This lesson provides clear examples, practice questions, hints, and explanations for mastering parallelism.",
+  "content": [
+    {
+      "heading": "Introduction",
+      "text": "Parallelism is the use of similar grammatical structures in phrases, lists, or sentences. Maintaining parallel structure improves readability and clarity."
+    },
+    {
+      "heading": "Key Concepts",
+      "text": "- Use the same form for items in a list (e.g., all gerunds, all infinitives).\n- Match grammatical structures in comparisons.\n- Avoid mixing verb forms or sentence patterns."
+    },
+    {
+      "heading": "Step-by-Step Approach",
+      "text": "1. Identify lists, comparisons, or paired ideas.\n2. Check if all items use the same grammatical form.\n3. Rewrite items to match forms if needed.\n4. Read the sentence to ensure clarity and correctness."
+    },
+    {
+      "heading": "Example 1",
+      "text": "'She likes dancing, to swim, and biking.'\nCorrect: 'She likes dancing, swimming, and biking.'"
+    },
+    {
+      "heading": "Example 2",
+      "text": "'He wanted to cook, cleaning the kitchen, and to shop.'\nCorrect: 'He wanted to cook, clean the kitchen, and shop.'"
+    },
+    {
+      "heading": "Practice Questions",
+      "text": "Correct the following sentences to maintain parallel structure."
+    },
+    {
+      "heading": "Question 1",
+      "text": "'She likes dancing, to swim, and biking.'\nFix parallel structure.",
+      "options": [
+        "A) She likes dancing, swimming, and biking.",
+        "B) She likes dance, swimming, and biking.",
+        "C) She likes dancing, swimming, and to bike.",
+        "D) She likes dancing, swim, and biking."
+      ],
+      "answer": "A",
+      "hint": "All items in a list should match in form.",
+      "explanation": "Using gerunds for all activities ensures parallelism: dancing, swimming, biking."
+    },
+    {
+      "heading": "Question 2",
+      "text": "'He enjoys reading books, to write essays, and listening to music.'\nFix parallel structure.",
+      "options": [
+        "A) He enjoys reading books, writing essays, and listening to music.",
+        "B) He enjoys read books, to write essays, and listening to music.",
+        "C) He enjoys reading, writing essays, and to listen music.",
+        "D) He enjoys reading books, write essays, and listening to music."
+      ],
+      "answer": "A",
+      "hint": "Use the same verb form (gerunds) for all actions.",
+      "explanation": "All verbs are converted to gerunds to maintain parallelism: reading, writing, listening."
+    },
+    {
+      "heading": "Summary",
+      "text": "Parallelism ensures sentences are balanced and easy to read. Always check lists, comparisons, and paired ideas to maintain consistent grammatical structures."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "daily_tip",
+  "title": "Daily SAT Tip",
+  "tips": [
+    {
+      "id": 1,
+      "category": "Reading",
+      "text": "Read the question first, then scan the passage for keywords instead of reading everything slowly."
+    },
+    {
+      "id": 2,
+      "category": "Grammar",
+      "text": "When unsure about grammar, read the sentence aloud—your ear often catches errors faster than your eyes."
+    },
+    {
+      "id": 3,
+      "category": "Vocabulary",
+      "text": "Use context clues before jumping to dictionary meanings."
+    },
+    {
+      "id": 4,
+      "category": "Strategy",
+      "text": "Eliminate wrong answers first—SAT questions often test precision, not difficulty."
+    },
+    {
+      "id": 5,
+      "category": "Time Management",
+      "text": "Don’t get stuck on one question. Mark it and move on."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Word Roots, Prefixes & Suffixes",
+  "level": "Intermediate",
+  "description": "Learn common roots, prefixes, and suffixes to help infer meanings of unfamiliar words. This lesson includes examples, practice questions, hints, and explanations to make understanding easier.",
+  "content": [
+    {
+      "heading": "Introduction",
+      "text": "Many words are made up of roots, prefixes, and suffixes. Understanding these components helps you determine the meaning of unfamiliar words quickly."
+    },
+    {
+      "heading": "Key Concepts",
+      "text": "- Root: The base part of a word that gives the main meaning.\n- Prefix: Added to the beginning of a word to change its meaning.\n- Suffix: Added to the end of a word to change its form or meaning."
+    },
+    {
+      "heading": "Step-by-Step Approach",
+      "text": "1. Identify the root, prefix, and suffix in the word.\n2. Recall the meaning of each component.\n3. Combine the meanings to understand the word.\n4. Check if the word fits the sentence context."
+    },
+    {
+      "heading": "Example 1",
+      "text": "'Biography' – 'bio' = life, 'graphy' = writing.\nMeaning: written account of someone's life."
+    },
+    {
+      "heading": "Example 2",
+      "text": "'Autograph' – 'auto' = self, 'graph' = writing.\nMeaning: a person's own signature."
+    },
+    {
+      "heading": "Practice Questions",
+      "text": "Use the roots, prefixes, and suffixes to determine the meanings of the following words."
+    },
+    {
+      "heading": "Question 1",
+      "text": "What does 'microscope' mean?",
+      "options": [
+        "A) Device to see large objects",
+        "B) Device to see tiny objects",
+        "C) Device to record sound",
+        "D) Device to measure time"
+      ],
+      "answer": "B",
+      "hint": "'Micro' = small, 'scope' = view",
+      "explanation": "A microscope allows viewing of small objects."
+    },
+    {
+      "heading": "Question 2",
+      "text": "What does 'telegraph' mean?",
+      "options": [
+        "A) Writing from afar",
+        "B) Sound recording",
+        "C) Long-distance running",
+        "D) Measuring temperature"
+      ],
+      "answer": "A",
+      "hint": "'Tele' = far, 'graph' = writing",
+      "explanation": "A telegraph sends written messages over long distances."
+    },
+    {
+      "heading": "Summary",
+      "text": "Understanding roots, prefixes, and suffixes allows you to decode and comprehend unfamiliar words, improving vocabulary and reading comprehension."
+    }
+  ]
+}

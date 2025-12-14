@@ -1,0 +1,66 @@
+{
+  "title": "Data & Graph Interpretation",
+  "level": "Intermediate",
+  "description": "Learn how to read, analyze, and interpret data from charts, tables, and graphs. This lesson provides step-by-step guidance, examples, and practice questions with detailed explanations to ensure understanding.",
+  "content": [
+    {
+      "heading": "Introduction",
+      "text": "Many SAT questions require interpreting data from visual sources such as charts, tables, and graphs. Understanding trends, comparisons, and patterns is key to answering these questions accurately."
+    },
+    {
+      "heading": "Key Concepts",
+      "text": "- Read the labels, titles, and units carefully.\n- Identify trends: increasing, decreasing, or stable.\n- Compare values across categories.\n- Use calculations if needed to interpret data.\n- Avoid assumptions not supported by the graph."
+    },
+    {
+      "heading": "Step-by-Step Approach",
+      "text": "1. Examine the type of graph or chart.\n2. Read all labels, legends, and units.\n3. Identify the question being asked.\n4. Look for trends, patterns, or anomalies.\n5. Choose the answer supported directly by the data."
+    },
+    {
+      "heading": "Example Question",
+      "text": "If a bar graph shows sales increasing from January to March, what can you conclude?",
+      "options": [
+        "A) Sales decreased",
+        "B) Sales stayed the same",
+        "C) Sales increased",
+        "D) No information"
+      ],
+      "answer": "C",
+      "hint": "Look at the bar heights to compare each month.",
+      "explanation": "The bars grow taller from January to March, indicating increasing sales."
+    },
+    {
+      "heading": "Practice Questions",
+      "text": "Try these questions to strengthen your skills in interpreting data."
+    },
+    {
+      "heading": "Question 1",
+      "text": "A line graph shows the number of books borrowed each month: January - 30, February - 40, March - 35.\n\nQuestion: Which month had the highest number of books borrowed?",
+      "options": [
+        "A) January",
+        "B) February",
+        "C) March",
+        "D) All months the same"
+      ],
+      "answer": "B",
+      "hint": "Compare the points on the graph.",
+      "explanation": "February has the highest point (40 books), so it had the most books borrowed."
+    },
+    {
+      "heading": "Question 2",
+      "text": "A table shows temperatures in Celsius: Monday - 20, Tuesday - 25, Wednesday - 25, Thursday - 22.\n\nQuestion: On which days was the temperature the same?",
+      "options": [
+        "A) Monday and Tuesday",
+        "B) Tuesday and Wednesday",
+        "C) Wednesday and Thursday",
+        "D) All days different"
+      ],
+      "answer": "B",
+      "hint": "Look at the values in the table carefully.",
+      "explanation": "Tuesday and Wednesday both show 25°C, indicating the temperatures were the same on these days."
+    },
+    {
+      "heading": "Summary",
+      "text": "Data and graph interpretation requires careful reading of labels and values. Focus on trends and comparisons, and always use the visual evidence to support your answers."
+    }
+  ]
+}

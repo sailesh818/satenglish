@@ -1,0 +1,74 @@
+{
+  "title": "Verb Tense & Voice",
+  "level": "Intermediate",
+  "description": "Understand correct verb tense and active/passive voice usage. This lesson includes explanations, examples, and practice questions to improve grammatical accuracy.",
+  "content": [
+    {
+      "heading": "Introduction",
+      "text": "Verb tense indicates the time of an action (past, present, future). Voice shows whether the subject performs the action (active) or receives it (passive)."
+    },
+    {
+      "heading": "Key Concepts",
+      "text": "- **Active voice:** The subject performs the action. Example: 'The teacher explained the lesson.'\n- **Passive voice:** The subject receives the action. Example: 'The lesson was explained by the teacher.'\n- Common tenses: Present, Past, Future, Present Perfect, Past Perfect.\n- Ensure tense consistency within sentences and paragraphs."
+    },
+    {
+      "heading": "Step-by-Step Approach",
+      "text": "1. Identify the subject and verb.\n2. Determine the time frame (past, present, future).\n3. Decide whether active or passive voice is appropriate.\n4. Match verb form to tense and voice.\n5. Check consistency across the sentence or passage."
+    },
+    {
+      "heading": "Example 1",
+      "text": "'The chef cooks the meal.'\nExplanation: Active voice, present tense."
+    },
+    {
+      "heading": "Example 2",
+      "text": "'The meal was cooked by the chef.'\nExplanation: Passive voice, past tense."
+    },
+    {
+      "heading": "Practice Questions",
+      "text": "Choose the correct verb form for each sentence."
+    },
+    {
+      "heading": "Question 1",
+      "text": "'The book ___ by the author last year.'",
+      "options": [
+        "A) wrote",
+        "B) was written",
+        "C) writes",
+        "D) is writing"
+      ],
+      "answer": "B",
+      "hint": "Check past tense and passive construction.",
+      "explanation": "Passive voice uses 'was written' to indicate the book received the action."
+    },
+    {
+      "heading": "Question 2",
+      "text": "'She ___ to the store every Saturday.'",
+      "options": [
+        "A) go",
+        "B) goes",
+        "C) went",
+        "D) gone"
+      ],
+      "answer": "B",
+      "hint": "Present tense, singular subject.",
+      "explanation": "'She' is singular, so present tense requires 'goes'."
+    },
+    {
+      "heading": "Question 3",
+      "text": "'The homework ___ by the students before the teacher arrived.'",
+      "options": [
+        "A) is completed",
+        "B) had been completed",
+        "C) will be completed",
+        "D) completes"
+      ],
+      "answer": "B",
+      "hint": "Look for past perfect passive construction.",
+      "explanation": "'Had been completed' shows that the action was finished before another past event."
+    },
+    {
+      "heading": "Summary",
+      "text": "Always identify the subject, verb tense, and voice. Ensure consistency and clarity in sentences, and choose active or passive voice depending on whether the subject performs or receives the action."
+    }
+  ]
+}

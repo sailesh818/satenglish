@@ -1,0 +1,73 @@
+{
+  "type": "quick_practice",
+  "title": "Quick Practice",
+  "description": "Answer 5 questions in 5 minutes to sharpen your SAT English skills.",
+  "time_limit_minutes": 5,
+  "questions": [
+    {
+      "id": 1,
+      "category": "Grammar",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "A) Each of the students have a book.",
+        "B) Each of the students has a book.",
+        "C) Each of the student have a book.",
+        "D) Each students has a book."
+      ],
+      "answer": "B",
+      "explanation": "'Each' is singular, so the correct verb is 'has'."
+    },
+    {
+      "id": 2,
+      "category": "Vocabulary",
+      "question": "What does 'meticulous' most nearly mean?",
+      "options": [
+        "A) Careless",
+        "B) Quick",
+        "C) Very detailed",
+        "D) Loud"
+      ],
+      "answer": "C",
+      "explanation": "Meticulous means showing great attention to detail."
+    },
+    {
+      "id": 3,
+      "category": "Reading",
+      "question": "She grabbed an umbrella before leaving. What can you infer?",
+      "options": [
+        "A) It was sunny",
+        "B) It was raining",
+        "C) It was windy",
+        "D) It was snowing"
+      ],
+      "answer": "B",
+      "explanation": "An umbrella suggests rain."
+    },
+    {
+      "id": 4,
+      "category": "Writing",
+      "question": "Which sentence is most concise?",
+      "options": [
+        "A) Due to the fact that it was late, he left.",
+        "B) Because it was late, he left.",
+        "C) It was late in time, so he left.",
+        "D) He left at a late time."
+      ],
+      "answer": "B",
+      "explanation": "'Because' replaces the wordy phrase 'due to the fact that'."
+    },
+    {
+      "id": 5,
+      "category": "Grammar",
+      "question": "Choose the correct verb.",
+      "options": [
+        "A) The group of players are ready.",
+        "B) The group of players is ready.",
+        "C) The group are ready.",
+        "D) The players group is ready."
+      ],
+      "answer": "B",
+      "explanation": "'Group' is a singular collective noun."
+    }
+  ]
+}
