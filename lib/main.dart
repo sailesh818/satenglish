@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:sat_english/pages/about_screen.dart';
 import 'package:sat_english/pages/achievements_screen.dart';
-import 'package:sat_english/pages/bookmarks_screen.dart';
+//import 'package:sat_english/pages/bookmarks_screen.dart';
 import 'pages/home_screen.dart';
 import 'pages/practice_screen.dart';
 import 'pages/topics_screen.dart';
-import 'pages/progress_screen.dart';
+//import 'pages/progress_screen.dart';
 import 'pages/settings_screen.dart';
 
 void main() {
@@ -43,7 +43,7 @@ class _MainNavigationState extends State<MainNavigation> {
     HomeScreen(),
     PracticeScreen(),
     TopicsScreen(),
-    ProgressScreen(),
+    //ProgressScreen(),
     SettingsScreen(),
   ];
 
@@ -51,7 +51,7 @@ class _MainNavigationState extends State<MainNavigation> {
     "Home",
     "Practice",
     "Topics & Lessons",
-    "Progress",
+    //"Progress",
     "Settings",
   ];
 
@@ -78,7 +78,7 @@ class _MainNavigationState extends State<MainNavigation> {
           BottomNavigationBarItem(icon: Icon(Icons.home), label: "Home"),
           BottomNavigationBarItem(icon: Icon(Icons.menu_book), label: "Practice"),
           BottomNavigationBarItem(icon: Icon(Icons.list), label: "Topics"),
-          BottomNavigationBarItem(icon: Icon(Icons.bar_chart), label: "Progress"),
+          //BottomNavigationBarItem(icon: Icon(Icons.bar_chart), label: "Progress"),
           BottomNavigationBarItem(icon: Icon(Icons.settings), label: "Settings"),
         ],
       ),
@@ -119,17 +119,17 @@ class AppDrawer extends StatelessWidget {
           ),
 
           // Bookmarks
-          ListTile(
-            leading: const Icon(Icons.bookmark),
-            title: const Text("Bookmarks"),
-            onTap: () {
-              Navigator.pop(context); // Close drawer first
-              Navigator.push(
-                context,
-                MaterialPageRoute(builder: (_) => const BookmarksScreen()),
-              );
-            },
-          ),
+          // ListTile(
+          //   leading: const Icon(Icons.bookmark),
+          //   title: const Text("Bookmarks"),
+          //   onTap: () {
+          //     Navigator.pop(context); // Close drawer first
+          //     Navigator.push(
+          //       context,
+          //       MaterialPageRoute(builder: (_) => const BookmarksScreen()),
+          //     );
+          //   },
+          // ),
 
           // Achievements
           ListTile(
@@ -145,8 +145,6 @@ class AppDrawer extends StatelessWidget {
           ),
 
           const Divider(),
-
-          // About
           ListTile(
             leading: const Icon(Icons.info_outline),
             title: const Text("About"),

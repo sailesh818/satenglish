@@ -49,19 +49,19 @@ class PracticeScreen extends StatelessWidget {
 
           const SizedBox(height: 24),
 
-          const Text(
-            "Practice Modes",
-            style: TextStyle(fontSize: 18, fontWeight: FontWeight.w600),
-          ),
-          const SizedBox(height: 10),
+          // const Text(
+          //   "Practice Modes",
+          //   style: TextStyle(fontSize: 18, fontWeight: FontWeight.w600),
+          // ),
+          // const SizedBox(height: 10),
 
-          Row(
-            children: [
-              _modeChip("Timed"),
-              _modeChip("Untimed"),
-              _modeChip("Mixed"),
-            ],
-          ),
+          // Row(
+          //   children: [
+          //     _modeChip("Timed"),
+          //     _modeChip("Untimed"),
+          //     _modeChip("Mixed"),
+          //   ],
+          // ),
         ],
       ),
     );
@@ -98,13 +98,13 @@ class PracticeScreen extends StatelessWidget {
     );
   }
 
-  Widget _modeChip(String label) {
-    return Padding(
-      padding: const EdgeInsets.only(right: 8),
-      child: Chip(
-        label: Text(label),
-        backgroundColor: Colors.indigo.shade50,
-      ),
-    );
-  }
+  // Widget _modeChip(String label) {
+  //   return Padding(
+  //     padding: const EdgeInsets.only(right: 8),
+  //     child: Chip(
+  //       label: Text(label),
+  //       backgroundColor: Colors.indigo.shade50,
+  //     ),
+  //   );
+  // }
 }

@@ -16,7 +16,7 @@ class HomeScreen extends StatelessWidget {
           children: [
             /// Greeting
             const Text(
-              "Welcome back 👋",
+              "Welcome back",
               style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
             ),
             const SizedBox(height: 6),
@@ -28,7 +28,7 @@ class HomeScreen extends StatelessWidget {
             const SizedBox(height: 16),
 
             /// Progress Overview
-            _progressCard(),
+            //_progressCard(),
 
             const SizedBox(height: 20),
 
@@ -84,22 +84,22 @@ class HomeScreen extends StatelessWidget {
             const SizedBox(height: 24),
 
             /// Today's Focus
-            const Text(
-              "Today’s Focus",
-              style: TextStyle(fontSize: 18, fontWeight: FontWeight.w600),
-            ),
-            const SizedBox(height: 10),
+            // const Text(
+            //   "Today’s Focus",
+            //   style: TextStyle(fontSize: 18, fontWeight: FontWeight.w600),
+            // ),
+            // const SizedBox(height: 10),
 
-            Wrap(
-              spacing: 8,
-              children: [
-                _focusChip("Grammar", true),
-                _focusChip("Reading", false),
-                _focusChip("Vocabulary", false),
-              ],
-            ),
+            // Wrap(
+            //   spacing: 8,
+            //   children: [
+            //     _focusChip("Grammar", true),
+            //     _focusChip("Reading", false),
+            //     _focusChip("Vocabulary", false),
+            //   ],
+            // ),
 
-            const SizedBox(height: 30),
+            //const SizedBox(height: 30),
 
             /// Start Practice Button
             SizedBox(
@@ -123,6 +123,7 @@ class HomeScreen extends StatelessWidget {
                 child: const Text(
                   "Start Practice",
                   style: TextStyle(
+                    color: Colors.white,
                     fontSize: 16,
                     fontWeight: FontWeight.w600,
                   ),
@@ -136,25 +137,25 @@ class HomeScreen extends StatelessWidget {
   }
 
   /// Progress Card
-  Widget _progressCard() {
-    return Container(
-      padding: const EdgeInsets.all(16),
-      decoration: BoxDecoration(
-        gradient: LinearGradient(
-          colors: [Colors.indigo, Colors.indigo.shade400],
-        ),
-        borderRadius: BorderRadius.circular(16),
-      ),
-      child: Row(
-        mainAxisAlignment: MainAxisAlignment.spaceBetween,
-        children: const [
-          _ProgressItem("🔥 Streak", "4 days"),
-          _ProgressItem("✅ Practiced", "12 today"),
-          _ProgressItem("🎯 Accuracy", "82%"),
-        ],
-      ),
-    );
-  }
+  // Widget _progressCard() {
+  //   // return Container(
+  //   //   padding: const EdgeInsets.all(16),
+  //   //   decoration: BoxDecoration(
+  //   //     gradient: LinearGradient(
+  //   //       colors: [Colors.indigo, Colors.indigo.shade400],
+  //   //     ),
+  //   //     borderRadius: BorderRadius.circular(16),
+  //   //   ),
+  //   //   // child: Row(
+  //   //   //   mainAxisAlignment: MainAxisAlignment.spaceBetween,
+  //   //   //   children: const [
+  //   //   //     _ProgressItem("🔥 Streak", "4 days"),
+  //   //   //     _ProgressItem("✅ Practiced", "12 today"),
+  //   //   //     _ProgressItem("🎯 Accuracy", "82%"),
+  //   //   //   ],
+  //   //   // ),
+  //   // );
+  // }
 
   /// Info Card Widget
   Widget _infoCard({
@@ -193,46 +194,46 @@ class HomeScreen extends StatelessWidget {
   }
 
   /// Focus Chip
-  Widget _focusChip(String label, bool selected) {
-    return Chip(
-      label: Text(label),
-      backgroundColor:
-          selected ? Colors.indigo : Colors.indigo.shade50,
-      labelStyle: TextStyle(
-        color: selected ? Colors.white : Colors.black,
-        fontWeight: FontWeight.w500,
-      ),
-    );
-  }
+  // Widget _focusChip(String label, bool selected) {
+  //   return Chip(
+  //     label: Text(label),
+  //     backgroundColor:
+  //         selected ? Colors.indigo : Colors.indigo.shade50,
+  //     labelStyle: TextStyle(
+  //       color: selected ? Colors.white : Colors.black,
+  //       fontWeight: FontWeight.w500,
+  //     ),
+  //   );
+  // }
 }
 
-class _ProgressItem extends StatelessWidget {
-  final String title;
-  final String value;
+// class _ProgressItem extends StatelessWidget {
+//   final String title;
+//   final String value;
 
-  const _ProgressItem(this.title, this.value);
+//   const _ProgressItem(this.title, this.value);
 
-  @override
-  Widget build(BuildContext context) {
-    return Column(
-      children: [
-        Text(
-          value,
-          style: const TextStyle(
-            color: Colors.white,
-            fontSize: 16,
-            fontWeight: FontWeight.bold,
-          ),
-        ),
-        const SizedBox(height: 4),
-        Text(
-          title,
-          style: const TextStyle(
-            color: Colors.white70,
-            fontSize: 12,
-          ),
-        ),
-      ],
-    );
-  }
-}
+//   @override
+//   Widget build(BuildContext context) {
+//     return Column(
+//       children: [
+//         Text(
+//           value,
+//           style: const TextStyle(
+//             color: Colors.white,
+//             fontSize: 16,
+//             fontWeight: FontWeight.bold,
+//           ),
+//         ),
+//         const SizedBox(height: 4),
+//         Text(
+//           title,
+//           style: const TextStyle(
+//             color: Colors.white70,
+//             fontSize: 12,
+//           ),
+//         ),
+//       ],
+//     );
+//   }
+// }
