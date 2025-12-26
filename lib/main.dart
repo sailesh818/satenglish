@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:sat_english/pages/about_screen.dart';
-import 'package:sat_english/pages/achievements_screen.dart';
 //import 'package:sat_english/pages/bookmarks_screen.dart';
 import 'pages/home_screen.dart';
 import 'pages/practice_screen.dart';
@@ -130,17 +129,7 @@ class AppDrawer extends StatelessWidget {
           // ),
 
           // Achievements
-          ListTile(
-            leading: const Icon(Icons.emoji_events),
-            title: const Text("Achievements"),
-            onTap: () {
-              Navigator.pop(context);
-              Navigator.push(
-                context,
-                MaterialPageRoute(builder: (_) => const AchievementsScreen()),
-              );
-            },
-          ),
+          
 
           const Divider(),
           ListTile(

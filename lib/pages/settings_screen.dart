@@ -67,7 +67,7 @@ class SettingsScreen extends StatelessWidget {
               _SettingTile(
                 icon: Icons.info_outline,
                 title: "App Version",
-                subtitle: "1.0.0",
+                subtitle: "1.0.1",
               ),
               
             ],
