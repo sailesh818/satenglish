@@ -5,7 +5,6 @@ import 'package:sat_english/pages/achievements_screen.dart';
 import 'pages/home_screen.dart';
 import 'pages/practice_screen.dart';
 import 'pages/topics_screen.dart';
-//import 'pages/progress_screen.dart';
 import 'pages/settings_screen.dart';
 
 void main() {
@@ -78,7 +77,6 @@ class _MainNavigationState extends State<MainNavigation> {
           BottomNavigationBarItem(icon: Icon(Icons.home), label: "Home"),
           BottomNavigationBarItem(icon: Icon(Icons.menu_book), label: "Practice"),
           BottomNavigationBarItem(icon: Icon(Icons.list), label: "Topics"),
-          //BottomNavigationBarItem(icon: Icon(Icons.bar_chart), label: "Progress"),
           BottomNavigationBarItem(icon: Icon(Icons.settings), label: "Settings"),
         ],
       ),
