@@ -70,20 +70,20 @@ class _TopicsScreenState extends State<TopicsScreen> {
             ],
           ),
 
-          _topicSection(
-            title: "Writing & Language",
-            icon: Icons.edit,
-            color: Colors.orange,
-            topics: [
-              "Subject–Verb Agreement",
-              "Verb Tense & Voice",
-              "Pronouns & Modifiers",
-              "Sentence Structure",
-              "Punctuation Rules",
-              "Parallelism",
-              "Conciseness & Style",
-            ],
-          ),
+          // _topicSection(
+          //   title: "Writing & Language",
+          //   icon: Icons.edit,
+          //   color: Colors.orange,
+          //   topics: [
+          //     "Subject–Verb Agreement",
+          //     "Verb Tense & Voice",
+          //     "Pronouns & Modifiers",
+          //     "Sentence Structure",
+          //     "Punctuation Rules",
+          //     "Parallelism",
+          //     "Conciseness & Style",
+          //   ],
+          // ),
 
           _topicSection(
             title: "Vocabulary",

@@ -31,23 +31,23 @@ class PracticeScreen extends StatelessWidget {
             color: Colors.indigo,
           ),
 
-          _practiceCard(
-            context,
-            title: "Writing & Language",
-            subtitle: "Grammar, punctuation, sentence structure",
-            icon: Icons.edit,
-            color: Colors.orange,
-          ),
+          // _practiceCard(
+          //   context,
+          //   title: "Writing & Language",
+          //   subtitle: "Grammar, punctuation, sentence structure",
+          //   icon: Icons.edit,
+          //   color: Colors.orange,
+          // ),
 
-          _practiceCard(
-            context,
-            title: "Vocabulary",
-            subtitle: "SAT words, synonyms, context usage",
-            icon: Icons.book,
-            color: Colors.green,
-          ),
+          // _practiceCard(
+          //   context,
+          //   title: "Vocabulary",
+          //   subtitle: "SAT words, synonyms, context usage",
+          //   icon: Icons.book,
+          //   color: Colors.green,
+          // ),
 
-          const SizedBox(height: 24),
+          // const SizedBox(height: 24),
 
           // const Text(
           //   "Practice Modes",
